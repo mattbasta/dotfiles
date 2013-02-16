@@ -23,7 +23,7 @@ set smartcase                  " Do the right thing
 set smarttab
 set tabstop=4
 set tags=tags;/                " Where to find tags
-set title                      " set terminal title to filename
+set notitle
 
 filetype indent on
 
