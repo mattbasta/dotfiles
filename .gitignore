@@ -20,3 +20,7 @@ dist
 .virtualenvs
 .ipython
 *.stackdump
+node_modules/
+Thumbs.db
+desktop.ini
+
