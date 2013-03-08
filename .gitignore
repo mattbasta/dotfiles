@@ -23,4 +23,4 @@ dist
 node_modules/
 Thumbs.db
 desktop.ini
-
+*.sublime-project
