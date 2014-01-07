@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh mbasta.dev.box.net "cd /box/www/current; /home/mbasta/bin/pus $1 $2"
