@@ -1,0 +1,25 @@
+{
+  "rules": {
+    "comma-dangle": [2, "always-multiline"],
+    "complexity": [1, 25],
+    "func-style": [2, "declaration", { "allowArrowFunctions": true }],
+    "indent": [2, 4, {"SwitchCase": 1}],
+    "jsx-quotes": [2, "prefer-single"],
+    "max-len": 1,
+    "max-nested-callbacks": [1, 5],
+    "max-statements": 1,
+    "no-console": 0,
+    "no-continue": 0,
+    "no-extra-semi": 0,
+    "no-fallthrough": 0,
+    "no-implicit-coercion": 0,
+    "no-inline-comments": 0,
+    "no-loop-func": 0,
+    "no-multiple-empty-lines": [2, {"max": 3, "maxEOF": 1}],
+    "no-process-env": 0,
+    "prefer-const": 1,
+    "prefer-template": 0,
+    "react/wrap-multilines": 0,
+    "wrap-regex": 1
+  }
+}
